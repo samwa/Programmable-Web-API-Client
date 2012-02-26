@@ -1,0 +1,13 @@
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\ProgrammableWebAPI.Test.dll
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\ProgrammableWebAPI.Test.pdb
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\nunit.framework.dll
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\ProgrammableWebAPI.dll
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\ProgrammableWebAPI.pdb
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\obj\Debug\ProgrammableWebAPI.Test.dll
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\obj\Debug\ProgrammableWebAPI.Test.pdb
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\ProgrammableWebAPI.Test.dll.config
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Projects\ProgrammableWebAPI\ProgrammableWebAPI.Test\bin\Debug\Fizzler.dll

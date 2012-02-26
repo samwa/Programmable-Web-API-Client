@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammableWebAPI", "ProgrammableWebAPI\ProgrammableWebAPI.csproj", "{52F274F7-8968-459D-8F7F-A73D75CB8C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammableWebAPI.Test", "ProgrammableWebAPI.Test\ProgrammableWebAPI.Test.csproj", "{3CA0CC9F-D5C8-4189-932A-DE09D52F54BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F274F7-8968-459D-8F7F-A73D75CB8C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F274F7-8968-459D-8F7F-A73D75CB8C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F274F7-8968-459D-8F7F-A73D75CB8C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F274F7-8968-459D-8F7F-A73D75CB8C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA0CC9F-D5C8-4189-932A-DE09D52F54BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA0CC9F-D5C8-4189-932A-DE09D52F54BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA0CC9F-D5C8-4189-932A-DE09D52F54BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA0CC9F-D5C8-4189-932A-DE09D52F54BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,124 @@
+pwfeed = {
+'id':"http://api.programmableweb.com/apis/google-maps/comments?apikey=2e99a1c60278b53b25bc2d653af06c27&alt=json",
+'subtitle':"Google Maps",
+'self':"http://api.programmableweb.com/apis/google-maps/comments?apikey=2e99a1c60278b53b25bc2d653af06c27&alt=json",
+'logo':"http://www.programmableweb.com/images/ProgrammableWebLogo.gif",
+'updated':"2011-11-10T12:31:13Z",
+'title':"Programmable Web Mashup Comment",
+'entries': [<author>
+        <name>ProgrammableWeb</name>
+        <uri>http://www.programmableweb.com/</uri>
+</author>
+<generator version='beta' uri='http://api.programmableweb.com/'>ProgrammableWeb API</generator>
+<openSearch:totalResults>18</openSearch:totalResults>
+<openSearch:startIndex>0</openSearch:startIndex>
+<openSearch:itemsPerPage>18</openSearch:itemsPerPage>
+{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/151',
+'updated':"2006-08-17T02:09:32Z",
+'summary':'I think this is a great service.<br />\n<br />\nEvery web site or service, especially those \"location based\",<br />\n\"get the cheapest prices\" services should use this.',
+'author name':'Ashish'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/381',
+'updated':"2006-12-20T04:21:39Z",
+'summary':'Just thought I would suggest an add to the mashups. <br />\nwww.navitraveler.com<br />\nIt uses mashups in a powerful way by allowing users to categorize and even modify additions \"wiki style\". <br />\nYou may want to check it out.',
+'author name':'Chris'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/670',
+'updated':"2007-06-04T19:08:28Z",
+'summary':'This is a wonderful service',
+'author name':'Seferm'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/1283',
+'updated':"2008-03-05T13:43:28Z",
+'summary':'The best map api around.<br />\nVery fast and reliable.<br />\nI love the hybrid map mode.<br />\nUnline other apis, Google Maps Api GOverviewMap control is ver useful.<br />\nIt can also used outer side of the map.<br />\nThanks Google Maps Team.<br />\n',
+'author name':'Alper'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/1304',
+'updated':"2008-03-18T12:36:25Z",
+'summary':'This is a cool service! GMs Rocks! I built my site using this - www.eatables.in !!!<br />\n<br />\nSearch Feature is too gud! Check my site for more!!!!',
+'author name':'ganesht'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/1378',
+'updated':"2008-05-10T15:12:18Z",
+'summary':'Here is another eBay / Google Maps mashup that you might like to consider adding:<br />\n<br />\nhttp://www.auctionsearchkit.co.uk<br />\n<br />\nCheers, Steve',
+'author name':'Steve'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/1628',
+'updated':"2008-10-17T18:17:06Z",
+'summary':'My website use this, and where in Brazil is very popular. Its a real state website with all the offers on the map. Its &lt;a href=&quot;http://www.imobilien.com.br/&quot;&gt;Imobilien&lt;/a&gt;. Could you mind take a look and add on the list.<br />\nThx and sorry about my english',
+'author name':'Clarisse'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/1746',
+'updated':"2009-01-06T13:26:02Z",
+'summary':'When will google fix maps for other countries.  I&#039;m currently studying in the Philippines and the map for Manila is way off.  It doesn&#039;t even correspond to the satellite view!',
+'author name':'Hedim Ramirez'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2017',
+'updated':"2009-07-20T20:59:46Z",
+'summary':'Google Sightseeing takes you on tour of the world as seen from satellite.http://www.googleeastereggs.com/',
+'author name':'googleions'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2063',
+'updated':"2009-09-01T15:07:47Z",
+'summary':'I am very happy with Google Maps for Bulgaria.<br />\nhttp://www.frombulgaria.net',
+'author name':'boycho'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2346',
+'updated':"2010-05-28T12:11:26Z",
+'summary':'Google API solution gets putperformed by Mapping specialist<br />\n<br />\nI am a web developer and had a 2 month project testing both solutions after reading the outcome of the IMFA regarding European business mapping providers.<br />\n<br />\nI noted that the free Google solution took twice as long to develop, had only basic Geocoding and everything else had to be developed from scratch I.e. criteria search, database management. Still Google business customers both paid (up to ?7800) a year  and free (if the solution will not be re sold (i.e. vehichle tracking) have no access to the UK postcode data from the royal mail as Google are no licensed (hence the often appalling accuracy) with only 4 digit postcode verification. <br />\n<br />\nThe directions are somewhat limited for business users / developers and do not include petrol costs as would be great for working out expense claims etc.<br />\n<br />\nIn a positive, Google is a pretty basic platform and for the most part is free to use and widely available and recognised.<br />\n<br />\nThe API platform from ViaMichelin (used a mixture of javascript skills) was offered to me on a free trial for 45 days and took only a few weeks to complete, Geocoding for address verification was included (so ideal for store finder, reserve and collect, etc and gave me access to live human support (to see what else I could do with their api). They provided me a platform with full Europe coverage and geocoded Ireland which Google could not offer for a price cheaper than the Google enterprise and premier.<br />\n<br />\nBing fell behind when it came to customer support as it was non existent and the former multimap owned company owned by microsoft took just over the 2 months to get back to me.<br />\n<br />\nLike for like, The new ViaMichelin API solution wins, For a basic solution use Google, for business&#039;s looking for real quality use Viamichelin<br />\n',
+'author name':'mapexpert'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2393',
+'updated':"2010-07-06T12:12:44Z",
+'summary':'Excellent service provided  by GoogleMaps where ever you are you may locate the place you want to visit with few mouse click.',
+'author name':'lnkddbz'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2466',
+'updated':"2010-09-28T14:03:31Z",
+'summary':'Some of rural addresses are not covered by Google Maps.  In that case, MapQuest and Yahoo Maps are more thorough.  Yahoo Maps gives even coordinates of the location.',
+'author name':'stpats'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2517',
+'updated':"2010-12-04T04:19:04Z",
+'summary':'I use Google all the time. However could you change your information in La Quinta CA at 50th and Jefferson. On the East side of Jefferson is Mountain View Country Club. On the West side of Jefferson is the Cirtus Country Club. Your now have the Cirtus Country Club on the East side. Hopefully you can change it.<br />\n<br />\nRespectfully yours,<br />\n<br />\nRick',
+'author name':'RickMoos'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2556',
+'updated':"2011-01-07T10:21:08Z",
+'summary':'I use Google apps as much as possible, and Maps really gets it better than other services when you need to place a building or get to an obscure side street or massive administrative center.',
+'author name':'aquidedroit'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2702',
+'updated':"2011-04-20T21:21:09Z",
+'summary':'I find my house, in a two clicks. The best &lt;a href=&quot;http://www.mapmonde.org/&quot;&gt;map&lt;/a&gt; i even seen.',
+'author name':'jackgroun'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2734',
+'updated':"2011-05-17T20:39:53Z",
+'summary':'Aeropark is also very happy with the mapping service in cebu.<br />\n<br />\n',
+'author name':'aeropark1'
+},{
+'title':'Google Maps',
+'id':'http://api.programmableweb.com/os/comment/google-maps/2824',
+'updated':"2011-07-17T14:11:06Z",
+'summary':'A recent change to maps, the first &#039;bad&#039; one, is the blanking of the screen for prolonged periods of time.  At the very least the user should have the ability to keep the map showing.  I was not able to find such a setting.',
+'author name':'fpsilver'
+},] };<!-- Login success. -->
